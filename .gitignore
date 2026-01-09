@@ -1,0 +1,22 @@
+# Секретные данные
+.env
+
+# Файлы Python
+__pycache__/
+*.py[cod]
+*$py.class
+venv/
+.venv/
+
+# Jupyter Notebook
+.ipynb_checkpoints
+*/.ipynb_checkpoints/*
+
+# Системные файлы Mac
+.DS_Store
+
+# Данные (тяжелые файлы)
+*.csv
+*.xlsx
+EOF.env
+
